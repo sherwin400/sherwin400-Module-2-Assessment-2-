@@ -52,7 +52,7 @@ body{
 }
 
 #tabs-bottom{
-    position: fixed;
+    position: bottom;
     bottom: 0;
     left: 0;
     z-index: 500;
